@@ -1,0 +1,12 @@
+{
+  "name": "To-Do-List",
+  "version": "1.0.0",
+  "scripts": {
+    "dev:backend": "cd todo-backend && npm run dev",
+    "dev:frontend": "cd todo-frontend && npm run dev",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
