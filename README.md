@@ -20,7 +20,7 @@
 ### 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Alex3584/To-Do-List.git
+git clone https://github.com/JSDID/To-Do-List
 cd To-Do-List
 ```
 
